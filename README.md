@@ -1,6 +1,6 @@
 # Sofit - Guia de Exercícios Personalizados para Academia
 
-![Sofit Logo](link_da_imagem_aqui)
+
 
 ## Descrição
 
